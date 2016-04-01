@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.charlesdrews.multipledeviceslab"
+        applicationId "com.example.christian.multipledeviceslab"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
